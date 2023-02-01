@@ -7,8 +7,8 @@ const Navbar = () =>{
         <nav>
             <p className="brand">Mundo Otaku</p>
             <ul>
-                <a href="#" className="">Manga</a>
-                <a href="#" className="">Figuras</a>
+                <a href="#" >Manga</a>
+                <a href="#" >Figuras</a>
                 <a href="#" >Merchandising</a>
             </ul>
             <CartWidget />
